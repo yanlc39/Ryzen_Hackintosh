@@ -4,7 +4,7 @@
 ## Specification
 | **Component** | **Model** |
 | ------------- | --------- |
-| CPU | AMD Ryzen 7 2600 @ 3.8GHz |
+| CPU | AMD Ryzen 5 2600 @ 3.8GHz |
 | Motherboard | BIOSTAR X370GTN |
 | RAM | 16GB (2 x 8GB) 威刚 @ 2800MHz |
 | Audio Chipset | ALC-892 |
@@ -38,7 +38,7 @@
 
   2. 将`EFI`文件夹中的`OC`与`BOOT`放入引导磁盘中
 
-  3. 通过 [**GenSMBIOS**](https://github.com/corpnewt/GenSMBIOS) 获得3码认证，以激活`iMessage`、`Facetime`等功能
+  3. 通过[**GenSMBIOS**](https://github.com/corpnewt/GenSMBIOS)获得3码认证，以激活`iMessage`、`Facetime`等功能
 
   4. 通过[**ProperTree**](https://github.com/corpnewt/ProperTree)打开`OC`目录下的`config.plist`，填入相应的`MLB`、`Sereial`和`SmUUID`
 
